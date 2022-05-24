@@ -1,0 +1,49 @@
+body {
+  margin: 100;
+  padding: 100;
+  background: #14495e;
+}
+.eyes {
+  position: absolute;
+  top: 32.5%;
+  transform: translateY(-50%) translateX(-0.4%) rotate(-4deg);
+  width: 100%;
+  text-align: center;
+}
+.eye {
+  width: 45px;
+  height: 25px;
+  background: #fff;
+  display: inline-block;
+  margin: 18px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+}
+.ball {
+  width: 20px;
+  height: 20px;
+  background: #000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+/* Improvement */
+
+.div-girl {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+img {
+  height: 100%;
+  /* margin: 0 auto; */
+}
+
+a {
+  color: white;
+}
