@@ -55,7 +55,8 @@ Moving eyes is a really nice project that can be deployed in other fun projects.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Animation with Javascript handling edges for movement
+:heavy_check_mark: Animation with Javascript handling edges for movement 
+
 :heavy_check_mark: CSS styles let us place the image as background and then locate the beautiful eyes where we need.
 
 ## :rocket: Technologies ##
